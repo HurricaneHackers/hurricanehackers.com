@@ -1,0 +1,14 @@
+Options -Indexes
+
+ErrorDocument 403 /403.php
+ErrorDocument 404 /404.php
+ErrorDocument 500 /500.php
+
+RewriteEngine On
+
+RewriteRule ^projects/?$ index.php?id=Projects
+RewriteRule ^homepage/?$ index.php?id=Homepage
+RewriteRule ^home/?$ index.php?id=Homepage
+RewriteRule ^linklist/?$ index.php?id=Linklist
+RewriteRule ^links/?$ index.php?id=Linklist
+RewriteRule ^link/?$ index.php?id=Linklist
