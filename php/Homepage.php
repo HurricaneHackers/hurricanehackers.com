@@ -104,9 +104,9 @@
 
       <li class="c8 c6"><span>Chris Peterson - @peteyMIT</span></li>
 
-      <li class="c8 c6"><span>Charlie deTar @cdetar</span></li>
+      <li class="c8 c6"><span>Charlie deTar - @cdetar</span></li>
 
-      <li class="c8 c6"><span>Pablo Rey Mazon @numeroteca</span></li>
+      <li class="c8 c6"><span>Pablo Rey Mazon - @numeroteca</span></li>
 
       <li class="c8 c6"><span>Adam Fulton - @keddren</span></li>
 
@@ -125,4 +125,10 @@
       @don_engel</span></li>
 
       <li class="c6 c8"><span>Juliana Rotich - @afromusing</span></li>
+
+      <li class="c8 c6"><span>Colin C. - @Phoul</span></li>
+      
+      <li class="c8 c6"><span>Samuel Carlisle -</span> <span class="c16"><a class="c3" href="mailto:samuelcarlisle@gmail.com">samuelcarlisle@gmail.com</a> - PGP 0x54828CAA - @samthetechie</span></li>
+
+      <li class="c8 c6"><span>Quint Guvernator -</span> <span class="c16"><a class="c3" href="mailto:devqqq@gmail.com">devqqq@gmail.com</a> - @qguv</span></li>
     </ol>
