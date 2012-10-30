@@ -42,11 +42,11 @@ if(!isset($_GET['id'])){$id = 'Homepage';}
 					<p>Wiki<p>
 					</div>
 				</a>  
-				<a href="https://twitter.com/HurricaneH4x0rs" target="_blank">
+				<a href="https://twitter.com/HurricaneHackrs" target="_blank">
 					<div id="twitter">
 					<p>&nbsp;<p>
 					<p>&nbsp;<p>
-					<p>@HurricaneH4x0rs<p>
+					<p>@HurricaneHackrs<p>
 					</div>
 				</a>
 		</div>

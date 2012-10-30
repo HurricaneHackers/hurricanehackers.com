@@ -97,37 +97,31 @@
 
     <p class="c6"><span class="c17">Add name / email / handle / etc if
     you've contributed!</span></p>
+       <span>Sasha Costanza-Chock - @schock</span>  
 
-    <ol class="c20" start="1">
-      <li class="c8 c6"><span>Sasha Costanza-Chock - @schock</span></li>
+       <span>Chris Peterson - @peteyMIT</span>  
 
-      <li class="c8 c6"><span>Chris Peterson - @peteyMIT</span></li>
+       <span>Charlie deTar - @cdetar</span>  
 
-      <li class="c8 c6"><span>Charlie deTar - @cdetar</span></li>
+       <span>Pablo Rey Mazon - @numeroteca</span>  
 
-      <li class="c8 c6"><span>Pablo Rey Mazon - @numeroteca</span></li>
+       <span>Adam Fulton - @keddren</span>  
 
-      <li class="c8 c6"><span>Adam Fulton - @keddren</span></li>
+       <span>James Morgan - @JamesGMorgan (but just the tiniest amount!)</span>  
 
-      <li class="c8 c6"><span>James Morgan - @JamesGMorgan (but just the tiniest
-      amount!)</span></li>
+       <span>Dan Lurie - @dantekgeek</span>  
 
-      <li class="c8 c6"><span>Dan Lurie - @dantekgeek</span></li>
+       <span>Edward Vielmetti - @vielmetti</span>  
 
-      <li class="c8 c6"><span>Edward Vielmetti - @vielmetti</span></li>
+       <span>Nathan Burke - @nathanwburke (added the twitter map for #sandy)</span>  
 
-      <li class="c8 c6"><span>Nathan Burke - @nathanwburke (added the twitter map for
-      #sandy)</span></li>
+       <span>Don Engel -</span> <span class="c16"><a class="c3" href="mailto:donengel@gmail.com">donengel@gmail.com</a></span><span>&nbsp;- @don_engel</span>  
 
-      <li class="c8 c6"><span>Don Engel -</span> <span class="c16"><a class="c3" href=
-      "mailto:donengel@gmail.com">donengel@gmail.com</a></span><span>&nbsp;-
-      @don_engel</span></li>
+       <span>Juliana Rotich - @afromusing</span>  
 
-      <li class="c6 c8"><span>Juliana Rotich - @afromusing</span></li>
-
-      <li class="c8 c6"><span>Colin C. - @Phoul</span></li>
+       <span>Colin C. - @Phoul</span>  
       
-      <li class="c8 c6"><span>Samuel Carlisle -</span> <span class="c16"><a class="c3" href="mailto:samuelcarlisle@gmail.com">samuelcarlisle@gmail.com</a> - PGP 0x54828CAA - @samthetechie</span></li>
+       <span>Samuel Carlisle -</span> <span class="c16"><a class="c3" href="mailto:samuelcarlisle@gmail.com">samuelcarlisle@gmail.com</a> - PGP 0x54828CAA - @samthetechie</span>  
 
-      <li class="c8 c6"><span>Quint Guvernator -</span> <span class="c16"><a class="c3" href="mailto:devqqq@gmail.com">devqqq@gmail.com</a> - @qguv</span></li>
-    </ol>
+       <span>Quint Guvernator -</span> <span class="c16"><a class="c3" href="mailto:devqqq@gmail.com">devqqq@gmail.com</a> - @qguv</span>
+
