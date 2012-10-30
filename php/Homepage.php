@@ -12,39 +12,38 @@
     <h2 class="c6"><a name="h.u31zlcv2509c" id="h.u31zlcv2509c"></a><span>Key
     Links <br> ---------------</span></h2>
 
-    <p class="c6"><a name="h.1yf2bkk04op4" id="h.1yf2bkk04op4"></a><span>HH
-    Index:</span> <span class="c1"><a class="c3" href=
-    "http://bit.ly/hh-index">http://bit.ly/hh-index</a></span><span class=
+    <h3 class="c6"><a name="h.1yf2bkk04op4" id="h.1yf2bkk04op4"></a><span>Index:</span> <span class="c1"><a class="c3" href=
+    "http://hurricanehackers.com/">http://hurricanehackers.com</a></span><span class=
     "c11">&nbsp;</span><span class="c11">|</span><span>&nbsp;An index of links to
-    #HurricaneHackers pages and projects.</span></p>
+    #HurricaneHackers pages and projects.</span></h3>
+    <p><span>(Credit/Source) Linklist:</span> <span class="c16"><a class="c3" href=
+    "http://bit.ly/hh-index">http://bit.ly/hh-index</a></span></p>
+    <br>
 
-    <p class="c6"><a name="h.2zdmhb40o97m" id=
+    <h3 class="c6"><a name="h.2zdmhb40o97m" id=
     "h.2zdmhb40o97m"></a>
      <span>Linklist:</span> <span class="c16"><a class="c3" href=
     "http://hurricanehackers.com/linklist">http://hurricanehackers.com/linklist</a></span><span>&nbsp;</span><span>|</span>
     <span>An annotated list of links to interesting resources, projects, tools,
-    etc.</span>
-<span>&nbsp;</span></p>
-    <span>(Credit/Source) Linklist:</span> <span class="c16"><a class="c3" href=
-    "http://bit.ly/hh-linklist">http://bit.ly/hh-linklist</a></span><span>&nbsp;</span><span>|</span>
-    <span>An annotated list of links to interesting resources, projects, tools,
-    etc.</span>
+    etc.</span></h3>
 
-    <p class="c6"><a name="h.itnqoyq6ga3s" id=
+    <p><span>(Credit/Source) Linklist:</span> <span class="c16"><a class="c3" href=
+    "http://bit.ly/hh-linklist">http://bit.ly/hh-linklist</a></span></p>
+<br>
+    <h3 class="c6"><a name="h.itnqoyq6ga3s" id=
     "h.itnqoyq6ga3s"></a>
 <span class="c16">Projects: <a class="c3" href=
     "http://hurricanehackers.com/projects">http://hurricanehackers.com/projects</a></span><span></span> <span>|</span>
-    <span>Go here if you're looking to actively participate in making something</span>
-  </p>
+    <span>Go here if you're looking to actively participate in making something</span></h3>
 
-<p><span>(Credit/Source) Projects:</span> <span class="c13 c16"><a class="c3" href=
-    "http://bit.ly/hh-projects-read">http://bit.ly/hh-projects-read</a></span><span class="c13">&nbsp;</span><span class="c13">|</span><span>&nbsp;</span><span>A page with 1. a project brainstorm space, and 2. an active projects space. Go here if
+<p><span>A page with 1. a project brainstorm space, and 2. an active projects space. Go here if
     you're looking to actively participate in making something :)
     Read-only at the moment due to high traffic, to get access head over to the
-    IRC.</span></p>
+    IRC.<br><br>(Credit/Source) Projects:</span> <span class="c13 c16"><a class="c3" href=
+    "http://bit.ly/hh-projects-read">http://bit.ly/hh-projects-read</a></span><span class="c13">&nbsp;</span></p>
     <br>
     <h2 class="c6"><a name="h.e8zpyol9ismb" id=
-    "h.e8zpyol9ismb"></a><span>Contact<br>---------------</span></h2>
+    "h.e8zpyol9ismb"></a><span>Contact<br>-----------</span></h2>
 
 
     <p class="c6"><a name="h.6ojk9a1mtg86" id=
@@ -63,7 +62,7 @@
 
     <p class="c2"></p>
     <br>
-    <h2 class="c6"><span class="c0 c10 c11">Notes<br>---------------</span></h2>
+    <h2 class="c6"><span class="c0 c10 c11">Notes<br>---------</span></h2>
 
     <p class="c2"></p>
 
