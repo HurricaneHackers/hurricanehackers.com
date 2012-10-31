@@ -4,3 +4,4 @@ gitignore~
 php/Homepage.php~
 index.php~
 .htaccess~
+*~
