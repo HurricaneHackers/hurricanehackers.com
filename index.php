@@ -1,4 +1,12 @@
-<?php
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+<title></title>
+<meta http-equiv="REFRESH" content="0;url=http://bit.ly/hh-index"></HEAD>
+<body>
+</doby>
+</html>
+<!--<?php
 $id=$_GET['id'];
 if(!isset($_GET['id'])){$id = 'Homepage';}
 ?>
@@ -49,7 +57,7 @@ if(!isset($_GET['id'])){$id = 'Homepage';}
 	<?php include_once("php/$id.php");?>
 </div>
 </body>
-</html>                               
+</html>-->                              
                                     
                                     
                                     
