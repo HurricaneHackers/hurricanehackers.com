@@ -10,7 +10,7 @@ Live updates are being made to the google docs:
 *https://bit.ly/hh-timeline
 *Add your new collaborative page here: (did I miss any?)
 
-But this excellend collaboration is not being reflected on the website which is a shame! Booo!
+But this excellent collaboration is not being reflected on the website which is a shame! Booo!
 
 Solution:
 =========
