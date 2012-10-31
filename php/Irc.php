@@ -1,1 +1,1 @@
-<iframe style="position: absolute; height: 100%" src="http://webchat.freenode.net?channels=hurricanehackers"></iframe>
+<iframe style="position: absolute; height: 98%; width: 99%; overflow: hidden;" src="http://webchat.freenode.net?channels=hurricanehackers"></iframe>
