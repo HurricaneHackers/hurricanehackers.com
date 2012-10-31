@@ -9,11 +9,6 @@ if(!isset($_GET['id'])){$id = 'Homepage';}
     <title>Hurricane Hackers</title>
       <link rel="stylesheet" href="css/master.css">
       <script type="text/javascript" charset="utf-8" src="js/jquery-1.8.2.min.js"></script>     
-      <script type="text/javascript" charset="utf-8">
-	$(document).ready(function(){
-
-	});
-      </script>
 </head>
 <body>
 <div id="wrapper">
@@ -21,11 +16,11 @@ if(!isset($_GET['id'])){$id = 'Homepage';}
 </div>
 	</strong>
 		<div class="buttons">
-				<a href="http://hurricanehackers.com/">
+				<a href="http://hurricanehackers.com/irc">
 					<div id="about">
 					<p>&nbsp;<p>
 					<p>&nbsp;<p>
-					<p>about<p>
+					<p>irc<p>
 					</div>
 				</a>
 				<a href="https://github.com/hurricanehackers">
@@ -35,7 +30,7 @@ if(!isset($_GET['id'])){$id = 'Homepage';}
 					<p>github<p>
 					</div>
 				</a>   
-				<a href="#" target="_blank">
+				<a href="https://en.wikipedia.org/wiki/Hurricane_Sandy" target="_blank">
 					<div id="wiki">
 					<p>&nbsp;<p>
 					<p>&nbsp;<p>
