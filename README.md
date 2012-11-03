@@ -54,14 +54,14 @@ Deployment
 $ ssh username@yourserver.com
 $ cd /var/www
 $ sudo su (needed for writing to the apache directory depending on your configuration)
-$ git clone https://github.com/HurricaneHackers/hurricanehackers.com/ 
+$ git clone https://github.com/HurricaneHackers/hurricanehackers.com/
 $ python build-website.py
 
 updating:
 $ ssh username@yourserver.com
 $ cd /var/www
 $ sudo su (needed for writing to the apache directory depending on your configuration)
-$ git pull https://github.com/HurricaneHackers/hurricanehackers.com/ 
+$ git pull https://github.com/HurricaneHackers/hurricanehackers.com/
 $ python build-website.py
 
 .djt Template Code Examples
@@ -84,5 +84,4 @@ Known Bugs:
 -----------------------------------
 jQuery bug stops the FAQ box from expanding
 Horrible inline style in certain divs. Any css tweaks welcome :)
-
 
