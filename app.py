@@ -6,28 +6,41 @@ app = Flask(__name__)
 cache = None
 cache_time = 0
 
+
 def bs4_slice(web_source):
     soup = BeautifulSoup(web_source)
     soup.body.find(id="header").decompose()
     soup.body.find(id="footer").decompose()
     for i in soup.body("img"):
         i["src"] = "https://docs.google.com/document/" + i["src"]
+    projects_link = soup.body.find(href="http://bit.ly/hh-projects")
+    projects_link["href"] = "http://localhost:5000/projects"
+    linkslist_link = soup.body.find(href="http://bit.ly/hh-linklist")
+    linkslist_link["href"] = "http://localhost:5000/links"
     return soup.prettify()
 
-def render_doc():
+
+def render_doc(site):
     try:
-        webpage = urllib.urlopen("https://docs.google.com/document/pub?id=1SGcfQz13ce4FfB-QHKF3WLwxHoCRGBouuvZn-3aoX0k").read()
+        webpage = urllib.urlopen(site).read()
         return bs4_slice(webpage)
     except:
         return "We're having some technical difficulties. Please check back soon!"
 
+
 @app.route('/')
 def route_root():
-    global cache, cache_time
-    if time.time()-cache_time > 300:
-        cache = render_doc()
-        cache_time = time.time()
-        return cache
+    return render_doc("https://docs.google.com/document/pub?id=1SGcfQz13ce4FfB-QHKF3WLwxHoCRGBouuvZn-3aoX0k")
+
+
+@app.route('/links')
+def link_page():
+    return render_doc("https://docs.google.com/document/pub?id=1xmKiUVy2vZbluQbtItbN8WMQXPiWCt7f8DVKJe6_w0c")
+
+
+@app.route('/projects')
+def project_page():
+    return render_doc("https://docs.google.com/document/pub?id=1wdDo65UcBfdcUTvda5fwb4HOI7RjEvWq3KzZBV9ORcc")
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
