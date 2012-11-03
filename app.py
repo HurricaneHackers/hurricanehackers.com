@@ -30,4 +30,4 @@ def route_root():
         return cache
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
