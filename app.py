@@ -14,9 +14,9 @@ def bs4_slice(web_source):
     for i in soup.body("img"):
         i["src"] = "https://docs.google.com/document/" + i["src"]
     projects_link = soup.body.find(href="http://bit.ly/hh-projects")
-    projects_link["href"] = "http://localhost:5000/projects"
+    projects_link["href"] = "http://hurricanehackers/projects"
     linkslist_link = soup.body.find(href="http://bit.ly/hh-linklist")
-    linkslist_link["href"] = "http://localhost:5000/links"
+    linkslist_link["href"] = "http://hurricanehackers/links"
     return soup.prettify()
 
 
