@@ -19,11 +19,11 @@ def fetchDoc(docid):
 def route_root():
     return fetchDoc('1SGcfQz13ce4FfB-QHKF3WLwxHoCRGBouuvZn-3aoX0k')
 
-@app.route('/', subdomain='links')
+@app.route('/links')
 def link_page():
     return fetchDoc('1xmKiUVy2vZbluQbtItbN8WMQXPiWCt7f8DVKJe6_w0c')
 
-@app.route('/', subdomain='projects')
+@app.route('/projects')
 def project_page():
     return fetchDoc('1wdDo65UcBfdcUTvda5fwb4HOI7RjEvWq3KzZBV9ORcc')
 
