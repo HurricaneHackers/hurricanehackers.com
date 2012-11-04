@@ -14,9 +14,9 @@ def bs4_slice(web_source):
     for i in soup.body("img"):
         i["src"] = "https://docs.google.com/document/" + i["src"]
     projects_link = soup.body.find(href="http://bit.ly/hh-projects")
-    projects_link["href"] = "http://hurricanehackers/projects"
+    projects_link["href"] = "http://hurricanehackers.com/projects"
     linkslist_link = soup.body.find(href="http://bit.ly/hh-linklist")
-    linkslist_link["href"] = "http://hurricanehackers/links"
+    linkslist_link["href"] = "http://hurricanehackers.com/links"
     return soup.prettify()
 
 
@@ -43,4 +43,4 @@ def project_page():
     return render_doc("https://docs.google.com/document/pub?id=1wdDo65UcBfdcUTvda5fwb4HOI7RjEvWq3KzZBV9ORcc")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
