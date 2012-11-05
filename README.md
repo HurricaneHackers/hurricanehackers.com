@@ -15,6 +15,12 @@ Solution:
 Current solution:
 Useing Flask, Requests and BeautifulSoup to parse the GoogleDocs. Then applying a caching system so we ain't parsing the page upon every request.
 
+
+
+
+
+Old info below:
+===============
 Description:
 ============
 Builds the website from django templates.
@@ -22,11 +28,6 @@ Uses the django template system to create static files for the website. This
 allows easy inclusion of common content, but removes the need for (e.g.) PHP
 includes that don't really do anything dynamic.
 
-
-
-
-Old info below:
-===============
 <strike>
 Build Requirements:
 ===================
