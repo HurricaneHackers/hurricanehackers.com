@@ -22,7 +22,11 @@ Uses the django template system to create static files for the website. This
 allows easy inclusion of common content, but removes the need for (e.g.) PHP
 includes that don't really do anything dynamic.
 
+
+
+
 Old info below:
+===============
 <strike>
 Build Requirements:
 ===================
