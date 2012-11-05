@@ -10,14 +10,10 @@ Live updates are being made to the google docs:
 *https://bit.ly/hh-timeline
 *Add your new collaborative page here: (did I miss any?)
 
-But this excellent collaboration is not being reflected on the website which is a shame! Booo!
-
 Solution:
 =========
-*Conenct our live google docs via the google python API: https://code.google.com/p/gdata-python-client/
-*django - throw in a little django magic
-*refer to a previous project which uses django + google docs collaboration in some way to create a solution which is quick to implement:
-*https://github.com/sukey/sukey-website-build/blob/master/build-website.py note this is GPLv3'd code :)
+Current solution:
+Useing Flask, Requests and BeautifulSoup to parse the GoogleDocs. Then applying a caching system so we ain't parsing the page upon every request.
 
 Description:
 ============
@@ -26,7 +22,8 @@ Uses the django template system to create static files for the website. This
 allows easy inclusion of common content, but removes the need for (e.g.) PHP
 includes that don't really do anything dynamic.
 
-
+Old info below:
+<strike>
 Build Requirements:
 ===================
 -Python 2.6 (or above): http://www.python.org/getit/
@@ -84,4 +81,4 @@ Known Bugs:
 -----------------------------------
 jQuery bug stops the FAQ box from expanding
 Horrible inline style in certain divs. Any css tweaks welcome :)
-
+</strik>
